@@ -1,4 +1,4 @@
-# Mintlify Starter Kit (Updated)
+# Mintlify Starter Kit (Updated version 3)
 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
